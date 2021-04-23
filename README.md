@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mcarttar
+- 👀 I’m interested in data analytics / data science
+- 🌱 I’m currently learning how to use OOP in Python for improved code reusability
+- 💞️ I’m passionate about applied econometrics, political advocacy, and my many houseplants
+- 📫 You can reach me on LinkedIn (https://www.linkedin.com/in/maggiecarttar/) or via my personal email at mcarttar@gmail.com
